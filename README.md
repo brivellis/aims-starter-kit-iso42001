@@ -77,6 +77,11 @@ Plan on about 60 to 90 days of part-time work for one AIMS owner to reach a firs
 
 ISMS Starter Kit for ISO/IEC 27001:2022, BCMS Starter Kit for ISO 22301, SMS Starter Kit for ISO/IEC 20000-1, readiness checklists and more: https://brivellis.com/resources/
 
+## Updates
+
+- Kit page: [brivellis.com/resources/aims-starter-kit-iso-42001](https://brivellis.com/resources/aims-starter-kit-iso-42001/?utm_source=github&utm_medium=readme&utm_campaign=aims-kit)
+- Follow on LinkedIn: [Brivellis](https://www.linkedin.com/company/brivellis) for new kits, the free AIMS course when it is out, and the Briefing.
+
 ## Report an error
 
 Found an error or an outdated reference? Email hello@brivellis.com. Corrections ship in the next version.
