@@ -14,6 +14,14 @@ The files work as one chain, so an auditor can follow any thread from start to f
 
 Every file carries a worked example for a fictional company, Falcon Ridge IT Services, and its six AI systems. In the documents the example sits in blue boxes; in the workbooks it sits in grey cells. Replace or delete it before you issue anything.
 
+## Keep this kit current
+
+- **New versions and file walkthroughs are announced on LinkedIn first.** [Follow on LinkedIn](https://www.linkedin.com/company/brivellis?utm_source=kit&utm_medium=readme&utm_campaign=aims-kit&utm_content=follow)
+- **Stuck on a file?** Short walkthrough videos for each kit file, one a week. [Subscribe on YouTube](https://www.youtube.com/@brivellis?sub_confirmation=1&utm_source=kit&utm_medium=readme&utm_campaign=aims-kit&utm_content=subscribe)
+- **Get the next version automatically:** click **Watch → Custom → Releases** at the top of this page.
+- **Ask a question about a file:** open the **Discussions** tab of this repository.
+- Kit page, previews and the full file list: [brivellis.com/resources/aims-starter-kit-iso-42001/](https://brivellis.com/resources/aims-starter-kit-iso-42001/?utm_source=kit&utm_medium=readme&utm_campaign=aims-kit&utm_content=kit-page)
+
 ## What's inside
 
 | # | File | What it's for |
