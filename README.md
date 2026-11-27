@@ -2,7 +2,7 @@
 
 Free, editable templates for an AI management system (AIMS) under **ISO/IEC 42001:2023**, from Brivellis. No sign-up.
 
-**Version 1.0 · November 2026 · 16 files (Word and Excel) · Free for use within one organisation**
+**Version 1.1 · November 2026 · 16 files (Word and Excel) · Free for use within one organisation**
 
 Kit page: https://brivellis.com/resources/aims-starter-kit-iso-42001/
 
@@ -45,15 +45,15 @@ Every file carries a worked example for a fictional company, Falcon Ridge IT Ser
 
 ## Download
 
-Download `Brivellis_AIMS_Starter_Kit_ISO42001-2023_v1.0.zip` from the [v1.0 release](https://github.com/brivellis/aims-starter-kit-iso42001/releases/tag/v1.0), or from the kit page: https://brivellis.com/resources/aims-starter-kit-iso-42001/
+Download `Brivellis_AIMS_Starter_Kit_ISO42001-2023_v1.1.zip` from the [v1.1 release](https://github.com/brivellis/aims-starter-kit-iso42001/releases/tag/v1.1), or from the kit page: https://brivellis.com/resources/aims-starter-kit-iso-42001/
 
 Check your download:
 
 | File | Size | SHA-256 |
 |---|---|---|
-| `Brivellis_AIMS_Starter_Kit_ISO42001-2023_v1.0.zip` | 308,150 bytes | `65d2448793fd0cc25d65eace3c6ec8b13b3d4a54dddbee727f7fda5b596b1124` |
+| `Brivellis_AIMS_Starter_Kit_ISO42001-2023_v1.1.zip` | 312,447 bytes | `0a74437eec2b9c1405b51e914a0f0f74834712fbc24b5fd06d411857a7fe21eb` |
 
-On Windows: `certutil -hashfile Brivellis_AIMS_Starter_Kit_ISO42001-2023_v1.0.zip SHA256`. On macOS or Linux: `shasum -a 256 Brivellis_AIMS_Starter_Kit_ISO42001-2023_v1.0.zip`.
+On Windows: `certutil -hashfile Brivellis_AIMS_Starter_Kit_ISO42001-2023_v1.1.zip SHA256`. On macOS or Linux: `shasum -a 256 Brivellis_AIMS_Starter_Kit_ISO42001-2023_v1.1.zip`.
 
 ## How to use it
 
