@@ -51,7 +51,7 @@ Check your download:
 
 | File | Size | SHA-256 |
 |---|---|---|
-| `Brivellis_AIMS_Starter_Kit_ISO42001-2023_v1.1.zip` | 312,447 bytes | `0a74437eec2b9c1405b51e914a0f0f74834712fbc24b5fd06d411857a7fe21eb` |
+| `Brivellis_AIMS_Starter_Kit_ISO42001-2023_v1.1.zip` | 312,440 bytes | `530cf6e264d97f06317105f5521146b27413fa7cd2b46c2b9303285e52c9175e` |
 
 On Windows: `certutil -hashfile Brivellis_AIMS_Starter_Kit_ISO42001-2023_v1.1.zip SHA256`. On macOS or Linux: `shasum -a 256 Brivellis_AIMS_Starter_Kit_ISO42001-2023_v1.1.zip`.
 
